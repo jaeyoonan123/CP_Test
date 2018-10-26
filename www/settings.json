@@ -1,5 +1,5 @@
 {
-  "url": "http://192.168.1.10:8080/",
+  "url": "http://10.1.10.75:8080/",
   "enableOffline": true,
   "requirePin": false,
   "updateAsync": false,
