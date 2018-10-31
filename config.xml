@@ -4,7 +4,7 @@
         id        = "io.mxapps.cptest101-sandbox"
         version   = "0.0.2" >
 
-    <name>CP_Test</name>
+    <name>Chemical Tracker</name>
 
     <description></description>
 
